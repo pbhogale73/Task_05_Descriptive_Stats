@@ -18,6 +18,7 @@ This project explores how effectively a modern large language model (LLM), speci
 
 ## 📁 Directory Layout
 
+```
 
 .
 ├── data/                        # Raw PDF file (excluded from GitHub)
@@ -35,6 +36,7 @@ This project explores how effectively a modern large language model (LLM), speci
 │   └── llm_evaluator.py            # Prompt response logger
 └── README.md
 
+```
 
 ---
 
