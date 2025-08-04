@@ -1,0 +1,18 @@
+{
+  "top_scorer":{
+    "name":"Fair, Dyaisha",
+    "ppg":22.3
+  },
+  "best_fg":{
+    "name":"Wilson, Saniaa",
+    "fg_percent":0.568
+  },
+  "top_rebounder":{
+    "name":"Latham, Alyssa",
+    "rebounds":224
+  },
+  "best_ast_to_ratio":{
+    "name":"Fair, Dyaisha",
+    "ratio":1.73
+  }
+}
